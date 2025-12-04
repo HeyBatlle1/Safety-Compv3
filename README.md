@@ -1,5 +1,3 @@
-# Safety-Compv3
-Version 3 of safety companion 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 # Safety Companion V3
 
